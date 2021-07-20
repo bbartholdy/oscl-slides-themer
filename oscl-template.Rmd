@@ -7,7 +7,7 @@ date: "20XX/XX/XX (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: [assets/css/oscl.css, assets/css/oscl-fonts.css]
+    css: [oscl.css, oscl-fonts.css]
     nature:
       highlightStyle: github
       highlightLines: true
@@ -45,7 +45,8 @@ class: center, middle
 
 ---
 class: middle
-<img src="img/transparency_cropped.png" width=650/>
+
+<img src="img/transparency_cropped.png" align="center" width=650/>
 
 An important goal is to practice science in a transparent way. 
 
@@ -58,7 +59,7 @@ Open science topics include:
 - replication research
 - citizen science
 - open peer-review
-- publishing <oa>open access</oa> `r emo::ji("unlock")`
+- publishing <a class="oa">open access</a> `r emo::ji("unlock")`
 - diversity and inclusion
 - research integrity
 - uploading preprints and (meta) research about scientific methods
@@ -75,9 +76,7 @@ Embarking on Open Science can seem rather daunting at first: there are so many n
 
 The <b>Open Science Community Leiden</b> wants to make the new developments accessible to everyone, in an efficient manner. 
 
-Start small and ask your colleague further down the corridor how he or she experienced something? To find that colleague, just take a look at the member profiles of the <b>Open Science Community Leiden</b>. 
-
-We will organise events such as workshops or talks, including drinks, so you can get to know each other and find out who to ask. 
+We will organise events such as workshops or talks, including drinks, so you can get to know each other and find out who to ask. You can also take a look at the [member profiles](https://www.universiteitleiden.nl/open-science-community-leiden/members/fsw). 
 
 With experiences harvested at these events, we actively inform top down policy makers, to ensure we co-create the open future together. 
 
@@ -93,11 +92,10 @@ OSCL events can be accessed through the [OSCL Teams](https://teams.microsoft.com
 
 Stay informed without becoming a member?
 
-`r icons::fontawesome("twitter")`<!-- twitter icon --> [@OSCLeiden](https://twitter.com/OSCLeiden) `r icons::fontawesome("envelope")`<!-- email icon --> [OSCL@leidenuniv.nl](mailto:OSCL@leidenuniv.nl)
+`r icons::fontawesome("envelope")` [OSCL@leidenuniv.nl](mailto:OSCL@leidenuniv.nl) `r icons::fontawesome("globe")` [OSCL website](https://www.universiteitleiden.nl/open-science-community-leiden/)
+`r icons::fontawesome("twitter")` [@OSCLeiden](https://twitter.com/OSCLeiden) 
 
-<!-- website icon --> https://www.universiteitleiden.nl/open-science-community-leiden/
-
- Follow [@OSCLeiden](https://twitter.com/OSCLeiden) or send an email to [OSCL@leidenuniv.nl](mailto:OSCL@leidenuniv.nl) asking, for instance, to be put on the list for the newsletter.
+Send an email to us asking to be put on the list for the newsletter.
 
 For the vision and mission statement of our International Network of Open Science & Scholarship Communities (INOSC), see [here](https://www.universiteitleiden.nl/open-science-community-leiden/vision-and-mission-inosc).
 
