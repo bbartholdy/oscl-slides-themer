@@ -19,7 +19,7 @@ a, a > code {
   text-decoration: none;
 }
 
-oa {
+.oa {
   color: #f68212;
   font-weight: bold;
 }
@@ -90,7 +90,7 @@ th, td { padding: 5px; }
 .remark-slide thead, .remark-slide tfoot, .remark-slide tr:nth-child(even) { background: #eee }
 
 .remark-slide-content {
-  background-image: url(./img/oscl_small2020.png);
+  background-image: url(./assets/img/oscl_small2020.png);
   background-position: 97% 3%;
   background-size: 150px;
 }

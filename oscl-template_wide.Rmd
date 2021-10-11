@@ -7,7 +7,7 @@ date: "20XX/XX/XX (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: [oscl.css, oscl-fonts.css]
+    css: [assets/css/oscl.css, assets/css/oscl-fonts.css]
     nature:
       ratio: "16:9"
       highlightStyle: github
@@ -70,7 +70,7 @@ class: middle
 
 ]
 
-<img src="img/transparency_cropped.png" width=650/>
+<img src="assets/img/transparency_cropped.png" width=650/>
 
 An important goal is to practice science in a transparent way. 
 
@@ -121,7 +121,7 @@ Follow [@OSCLeiden](https://twitter.com/OSCLeiden) or send an email to [OSCL@lei
 
 For the vision and mission statement of our International Network of Open Science & Scholarship Communities (INOSC), see [here](https://www.universiteitleiden.nl/open-science-community-leiden/vision-and-mission-inosc).
 
-<img src="./img/inosc.png" width=300/>
+<img src="assets/img/inosc.png" width=300/>
 
 ---
 class: center, middle
