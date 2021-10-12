@@ -1,0 +1,1 @@
+(function(b){var a=b("body.overview #content \x3e ul \x3e li"),d=b("#content .overview-list \x3e ul \x3e li");if(a.length||d.length)b.fn.overview=function(){var c=b(this),a=c.find("img");c.length>a.length&&1<c.length&&0<a.length&&c.each(function(){var a=b(this);a.find("img").length||a.find("div").addClass("no-thumb")})},a.overview(),d.overview()})(jQuery);

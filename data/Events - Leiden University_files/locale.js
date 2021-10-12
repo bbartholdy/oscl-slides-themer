@@ -1,0 +1,3 @@
+"undefined"===typeof UL2.Locale&&(UL2.Locale={});UL2.Locale.lang=function(){return document.getElementsByTagName("html")[0].lang};
+UL2.Locale.datepicker=function(a){a=a||UL2.Locale.lang();return{nl:{closeText:"Sluiten",currentText:"Vandaag",prevText:"Vorige maand",nextText:"Volgende maand",monthNames:"januari februari maart april mei juni juli augustus september oktober november december".split(" "),monthNamesShort:"jan feb mrt apr mei jun jul aug sep okt nov dec".split(" "),dayNames:"zondag maandag dinsdag woensdag donderdag vrijdag zaterdag".split(" "),dayNamesShort:"zon maa din woe don vri zat".split(" "),dayNamesMin:"zo ma di wo do vr za".split(" "),
+weekHeader:"Wk",firstDay:1}}[a]||{}};

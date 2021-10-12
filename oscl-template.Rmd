@@ -104,6 +104,13 @@ For the vision and mission statement of our International Network of Open Scienc
 ---
 class: center, middle
 
+## Upcoming Events
+
+<iframe src="data/Events - Leiden University.html" width=700 height=500/>
+
+---
+class: center, middle
+
 Interested in learning more about Open Science?
 
 [join us](https://www.universiteitleiden.nl/open-science-community-leiden/join-us) 

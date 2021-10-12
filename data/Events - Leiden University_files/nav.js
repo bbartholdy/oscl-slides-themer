@@ -1,0 +1,1 @@
+(function(b){var a=b("nav[data-menu-label]");a.length&&a.each(function(){var c=b(this),d=b("\x3ca/\x3e"),a=c.data("menu-label")||"Menu";d.attr("href","#").addClass("toggle-nav").text(a);d.on("click",function(){c.toggleClass("closed");return!1});c.prepend(d).addClass("closed")})})(jQuery);

@@ -1,17 +1,17 @@
 /* Open Science Community Leiden Colours: 
-#002060
-#006ec3
+#02225e
+#0070c0
 #a7c9db 
 Open access orange: #f68212 */
 h1 {
-  color: #002060;
+  color: #02225e;
 } 
 
 h2 {
-  color: #006ec3;
+  color: #0070c0;
 }
 h3, b {
-  color: #a7c9db;
+  color: #a8c9da;
 }
 
 a, a > code {
