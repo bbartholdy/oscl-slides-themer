@@ -90,9 +90,9 @@ th, td { padding: 5px; }
 .remark-slide thead, .remark-slide tfoot, .remark-slide tr:nth-child(even) { background: #eee }
 
 .remark-slide-content {
-  background-image: url(./assets/img/oscl_small2020.png);
-  background-position: 97% 3%;
-  background-size: 150px;
+  background-image: url(../img/oscl_small2020.png);
+  background-position: 98% 2%;
+  background-size: 100px;
 }
 
 @page { margin: 0; }
